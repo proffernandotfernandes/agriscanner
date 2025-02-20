@@ -4,7 +4,7 @@
     * Ex: AWS Fargate
 
 ## Orientações gerais
-* Criar ambiente virtual (Windows - PowerShell)** <br />
+* Criar ambiente virtual (Windows - PowerShell)
     * python3 -m venv venv   
     * venv\Scripts\activate
 
