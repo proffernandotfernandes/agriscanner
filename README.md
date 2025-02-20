@@ -16,7 +16,7 @@
         * .\venv\Scripts\activate 
 
 * Servir a aplicação (Windows - Dev)
-    * gunicorn -w 4 -b 0.0.0.0:5000 agriapp:app
+    * flask --app agriapp run
 
 * Servir a aplicação (Linux - Prod)
     * gunicorn -w 4 -b 0.0.0.0:5000 agriapp:app
